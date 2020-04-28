@@ -7,4 +7,4 @@ matplotlib>=3.2.1
 pandas>=1.0.3
 seaborn>=0.10.0
 statsmodels>=0.10.2
-imblearn>=0.4.3
+imbalanced-learn>=0.4.3
